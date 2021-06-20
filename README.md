@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Tom and I have 20+ years of experience in IT. I was working in many areas of software development, as a consultant and
-a team member in small and large companies or corporation. I have background with backend (PHP, Behat, Symfony, Laravel), admin (GitLab, Zabbix, Ubuntu, RedHat) and devops (AWS, Chef) role, embedded systems (C, Atmel) and a little frontent.
+a team member in small and large companies or corporation. I have background with backend (PHP, Behat, Symfony, Laravel), admin (GitLab, Zabbix, Ubuntu, RedHat) and devops (AWS, Chef) role, embedded systems (C, Atmel) and a little frontend (HTML, CSS, JS).
 
 Now, I'm working as a freelancer and a member of small company in cozy town.
 
