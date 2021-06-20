@@ -18,11 +18,15 @@ If you want cut, for example, an extension of files, try `rev` twice, i.e.
 First, make a directory `mkdir ~/.logs`
 
 Second, add to `~/.bashrc` this entry 
-`export PROMPT_COMMAND='if [ "$(id -u)" -ne 0 ]; then echo "$(date "+%Y-%m-%d.%H:%M:%S") $(pwd) $(history 1)" >> ~/.logs/bash-history-$(date "+%Y-%m-%d").log; fi'`
+```bash
+export PROMPT_COMMAND='if [ "$(id -u)" -ne 0 ]; then echo "$(date "+%Y-%m-%d.%H:%M:%S") $(pwd) $(history 1)" >> ~/.logs/bash-history-$(date "+%Y-%m-%d").log; fi'
+```
 
 After restart bash shell, you will have a daily log of all shell commands like this:
 
-`$ cat ~/.logs/bash-history-2021-06-20.log
+```bash
+$ cat ~/.logs/bash-history-2021-06-20.log
 (...)
 2021-06-20.11:28:52 /home/tom   500  cat ~/.bashrc
-(...)`
+(...)
+```
