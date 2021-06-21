@@ -1,7 +1,7 @@
 ### increase upload max limit in Wordpress, PHP8.0-fpm and Nginx
 
 Settings form `location /` and `location /wp-admin` there aren't cascading and nginx
-processes them separetly.
+processes them separately.
 
 ### some hosts in Zabbix aren't visible
 
@@ -32,3 +32,7 @@ $ cat ~/.logs/bash-history-2021-06-20.log
 2021-06-20.11:28:52 /home/tom   500  cat ~/.bashrc
 (...)
 ```
+
+### notification isn't send to all members in Zabbix groups
+
+If you have a proper configuration and despite this, notifications aren't sent check and set properly user's permissions.
