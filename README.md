@@ -12,6 +12,8 @@ I run a Polish translation of Leo Babauta's blog [mnmlista](https://github.com/t
 
 I collect useful (for me) tips & tricks [here](https://github.com/tjadowski/tjadowski/blob/master/TODAY-I-LEARNT.md).
 
+I blog on personal topics (in Polish) at [NotesOffline](https://mnmlista.pl/offline).
+
 You can reach me at [jadowski@protonmail.com](mailto:jadowski@protonmail.com).
 
 <!--
