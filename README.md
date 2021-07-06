@@ -6,7 +6,7 @@ a team member in small and large companies an one corporation. I have background
 Now, I'm working as a freelancer and a member of small company in cozy town.
 
 Currently I am not actively looking for a job, but I am open for proposals :).
-Due to family restrictions I consider only fully-remote job offers.
+Due to family obligations I consider only fully-remote job offers.
 
 I run a Polish translation of Leo Babauta's blog [mnmlista](https://github.com/tjadowski/mnmlista.pl).
 
